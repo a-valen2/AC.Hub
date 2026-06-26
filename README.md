@@ -37,7 +37,7 @@ Technology should **create** trust.
 
 # About
 
-Founder & CEO of **SynergyXZK**, a technology ecosystem focused on building secure, privacy-preserving and AI-powered digital infrastructure.
+Founder & CEO | Systems Architect at **SynergyXZK**, a technology ecosystem focused on building secure, privacy-preserving and AI-powered digital infrastructure.
 
 My work combines:
 
@@ -55,19 +55,20 @@ to design technologies capable of supporting real-world applications across mobi
 
 # Ecosystem
 
-
+```text
 SynergyXZK
 
-├── Convergence X Brand & Technology Vision
+├── Convergence X
+│      Strategic Technology Vision
 │      
 │
 ├── Privacy-first Mobility
-│ 
+│      
 │
 ├── AI for Fitness & Health
 │      
 │
-├── AI Market Intelligence
+├── AI-driven Market Intelligence
 │      
 │
 └── Identity • Governance • Trust
@@ -156,8 +157,23 @@ Building the next generation of trusted digital infrastructure where Artificial 
 
 ---
 
+# Founder Perspective
+
+```text
+I believe the next generation of technology
+will not be defined by faster systems.
+
+It will be defined by trusted systems.
+
+Systems where intelligence,
+privacy and human autonomy coexist.
+```
+
+---
+
 # Vision
 
+```text
 Today's software connects applications.
 
 Tomorrow's infrastructure will connect trust.
@@ -199,7 +215,7 @@ That is what I build.
 
 <p align="center">
 
-<a href="https://linkedin.com/in/SEU-LINKEDIN">
+<a href="https://linkedin.com/in/a-valen">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -207,7 +223,7 @@ That is what I build.
 <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/a-valen3">
+<a href="https://github.com/SEU_USUARIO">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
