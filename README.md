@@ -55,7 +55,7 @@ to design technologies capable of supporting real-world applications across mobi
 
 # Ecosystem
 
-```text
+
 SynergyXZK
 
 ├── Convergence X Brand & Technology Vision
@@ -158,7 +158,6 @@ Building the next generation of trusted digital infrastructure where Artificial 
 
 # Vision
 
-```text
 Today's software connects applications.
 
 Tomorrow's infrastructure will connect trust.
