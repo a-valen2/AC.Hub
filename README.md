@@ -35,7 +35,7 @@ Blockchain • Artificial Intelligence • Zero-Knowledge • Digital Trust
 
 > **Invisible complexity. Visible simplicity.**
 
-I design sovereign digital infrastructure where **privacy**, **security**, **governance** and **intelligence** are embedded into architecture from the very first principle.
+I design sovereign digital infrastructure where **privacy**,**security**,**governance** and **intelligence** are embedded into architecture from the very first principle.
 
 Technology should not demand trust.
 
